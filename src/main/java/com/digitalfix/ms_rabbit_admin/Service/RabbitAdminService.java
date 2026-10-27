@@ -1,8 +1,8 @@
-package com.digitalfix.msrabbitadmin.service;
+package com.digitalfix.ms_rabbit_admin.Service;
 
-import com.digitalfix.msrabbitadmin.dto.BindingRequest;
-import com.digitalfix.msrabbitadmin.dto.ExchangeRequest;
-import com.digitalfix.msrabbitadmin.dto.QueueRequest;
+import com.digitalfix.ms_rabbit_admin.Dto.BindingRequest;
+import com.digitalfix.ms_rabbit_admin.Dto.ExchangeRequest;
+import com.digitalfix.ms_rabbit_admin.Dto.QueueRequest;
 import org.springframework.amqp.core.AmqpAdmin;
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.DirectExchange;

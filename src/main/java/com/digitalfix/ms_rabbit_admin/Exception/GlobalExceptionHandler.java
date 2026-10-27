@@ -1,4 +1,4 @@
-package com.digitalfix.msrabbitadmin.exception;
+package com.digitalfix.ms_rabbit_admin.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

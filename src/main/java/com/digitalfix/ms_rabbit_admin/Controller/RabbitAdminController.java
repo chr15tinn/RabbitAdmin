@@ -1,9 +1,9 @@
-package com.digitalfix.msrabbitadmin.controller;
+package com.digitalfix.ms_rabbit_admin.Controller;
 
-import com.digitalfix.msrabbitadmin.dto.BindingRequest;
-import com.digitalfix.msrabbitadmin.dto.ExchangeRequest;
-import com.digitalfix.msrabbitadmin.dto.QueueRequest;
-import com.digitalfix.msrabbitadmin.service.RabbitAdminService;
+import com.digitalfix.ms_rabbit_admin.Dto.BindingRequest;
+import com.digitalfix.ms_rabbit_admin.Dto.ExchangeRequest;
+import com.digitalfix.ms_rabbit_admin.Dto.QueueRequest;
+import com.digitalfix.ms_rabbit_admin.Service.RabbitAdminService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Pattern;
 import org.springframework.http.HttpStatus;

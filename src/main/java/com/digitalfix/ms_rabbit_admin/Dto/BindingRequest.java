@@ -1,4 +1,4 @@
-package com.digitalfix.msrabbitadmin.dto;
+package com.digitalfix.ms_rabbit_admin.Dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
